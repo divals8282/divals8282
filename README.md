@@ -3,7 +3,6 @@
 ## About Me
 - 💻 Result-Driven Software Engineer | Full-Stack Javascript
 - 📫 Reach me: hovhannes.amirjanyanit@gmail.com
--  Phone: +37433733731
 - 📍 Based in Yerevan, Armenia
 
 
