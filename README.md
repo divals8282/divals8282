@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-## About Me
-- 💻 Result-Driven Software Engineer | Full-Stack Javascript
-
 ## Stats
 ![Hovhannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=divals8282&show_icons=true&theme=dracula)
 
