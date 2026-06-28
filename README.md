@@ -1,3 +1,2 @@
-## WOW YOU INTERESTED IN MY WORKSHOP?
-## NICE!
-## HOPE YOU WILL FIND SOMETHING INTERESTING FOR YOU! 👋
+## Welcome To My Workshop
+## Hope you will find something interesting for you! 👋
